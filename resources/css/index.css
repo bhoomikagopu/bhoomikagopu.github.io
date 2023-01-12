@@ -1,0 +1,29 @@
+h1,
+h2,
+h3,
+p {
+    font-family: "Helvetica", sans-serif;
+}
+
+.item h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
+}
+
+#brush {
+    background-color: mediumspringgreen;
+}
+
+#frame {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
